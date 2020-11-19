@@ -15,6 +15,6 @@ For visualization the process I used was:
 3. Import XSLX into [yEd](https://yed.yworks.com/support/manual/import_excel.html), with Edge Representation: Edge List, Data Range: column A to column C, Source IDs from column A, Target IDs from column B, and Label Text: Node Label. Then run the resulting graph through Hierarchic Layout tool and set the various label font settings and such in whichever way you find readable.
 4. Export resulting graph into png from yEd.
 
-An example of such a graph, generated from latest release of F2 at the time (2.7.3), is included below.
+An example of such a graph, generated from latest release of F2 at the time (2.7.3), is included below. The CSV file used to generate the image [is also provided in the repo as example.csv](https://github.com/harakka/SQFGrapher/blob/main/example.csv).
 
 ![Example graph](https://github.com/harakka/SQFGrapher/raw/main/example.png "Logo Title Text 1")
